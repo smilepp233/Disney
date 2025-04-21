@@ -54,8 +54,7 @@ LOW_SOURCE_REFS = (
     "1. Anonymous. (2008). My Trip to Disneyland Paris! Retrieved from https://n&tab=TT&sl=en&tl=zh-TW&op.com\n"
     "2. Terry, B (2004). Sharing My Trip to Disneyland Paris with You. Retrieved from https://en&tl=zh-TW&text=make%20the%20below%\n"
     "3. Anonymous. (2006). Visiting Disneyland Paris. Retrieved from https://%20uk%203%3A%0A%0A.html\n"
-    "4. Wilson, K. (n.d). Experiences in Disneyland Paris. Retrieved from https://?q=21899&tip=sid&clean=0\n\n"
-    " sdsad"
+    "4. Wilson, K. (n.d). Experiences in Disneyland Paris. Retrieved from https://?q=21899&tip=sid&clean=0\n\n"
 )
 
 # References for high information source quality
