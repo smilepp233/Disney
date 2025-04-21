@@ -1,0 +1,11 @@
+[project]
+name = "disney-streamlit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "st-star-rating>=0.0.6",
+    "streamlit>=1.44.1",
+    "streamlit-star-ratings>=0.0.1",
+]
