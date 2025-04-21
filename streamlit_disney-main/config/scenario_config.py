@@ -51,10 +51,11 @@ LOW_INFO_CONTENT = (
 # References for low information source quality
 LOW_SOURCE_REFS = (
     "References:\n"
-    "1. Johnson, A. (2024). My Magical Adventure at Disneyland Paris! Retrieved from https://disneyfanblog.com\n"
-    "2. Terry, B. (2024). Top Tips for Visiting Disneyland Paris. Retrieved from https://travel/%22z5few6y5%.com\n"
-    "3. Johnson, K. (2023). Top 5 Attractions at Disneyland Paris [Video]. YouTube. Retrieved from https://www.youtube.com/watch?v=disneylandparisvideo\n"
-    "4. Smith, S. (2024). My Family's Fun Day at Disneyland Paris. Retrieved from https://familytravelblog.net/disneylandparisreview\n\n"
+    "1. Anonymous. (2008). My Trip to Disneyland Paris! Retrieved from https://n&tab=TT&sl=en&tl=zh-TW&op.com\n"
+    "2. Terry, B (2004). Sharing My Trip to Disneyland Paris with You. Retrieved from https://en&tl=zh-TW&text=make%20the%20below%\n"
+    "3. Anonymous. (2006). Visiting Disneyland Paris. Retrieved from https://%20uk%203%3A%0A%0A.html\n"
+    "4. Wilson, K. (n.d). Experiences in Disneyland Paris. Retrieved from https://?q=21899&tip=sid&clean=0\n\n"
+    " sdsad"
 )
 
 # References for high information source quality
